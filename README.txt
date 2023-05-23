@@ -1,0 +1,2 @@
+-Format POST tanggal lahir pada body adalah YYYY-MM-DD
+-PORT yang digunakan adalah 5000 atau 3000
